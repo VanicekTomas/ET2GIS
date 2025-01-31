@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<session>
+  <id>1684306120523</id>
+  <ip>158.194.94.96</ip>
+  <var>p03</var>
+  <start>2023-05-17 08:48:40</start>
+  <mapsize>1920x1200</mapsize>
+  <screen>1920x1200</screen>
+  <browser>Chrome 113</browser>
+  <os>Windows</os>
+  <events>
+    <event>
+      <time>0</time>
+      <name>init</name>
+      <value>0</value>
+      <center>(49.75480440021709, 15.288548465797426)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>2.881</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(50.252622160450045, 15.217137332984914)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>3.84</time>
+      <name>zoom_out</name>
+      <value>0</value>
+      <center>(50.365998267391085, 15.396537915700245)</center>
+      <zoom>7</zoom>
+    </event>
+    <event>
+      <time>4.922</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(49.38544819169931, 15.391044751637745)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>9.441</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(49.78076753974045, 13.902397290700245)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>11.188</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(50.50245701371988, 13.880424634450245)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>11.256</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(50.68553070404759, 14.023246900075245)</center>
+      <zoom>9</zoom>
+    </event>
+    <event>
+      <time>11.723</time>
+      <name>zoom_out</name>
+      <value>0</value>
+      <center>(50.662903050423076, 13.888664380543995)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>13.125</time>
+      <name>zoom_out</name>
+      <value>0</value>
+      <center>(50.151773566482206, 14.569816724293995)</center>
+      <zoom>7</zoom>
+    </event>
+    <event>
+      <time>14.433</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(49.89060020374759, 12.910881177418995)</center>
+      <zoom>7</zoom>
+    </event>
+    <event>
+      <time>19.616</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(50.72208710337788, 12.804230163116474)</center>
+      <zoom>7</zoom>
+    </event>
+    <event>
+      <time>23.426</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(50.67337504192288, 15.957306334991474)</center>
+      <zoom>7</zoom>
+    </event>
+  </events>
+</session>

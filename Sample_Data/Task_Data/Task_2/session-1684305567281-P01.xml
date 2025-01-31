@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<session>
+  <id>1684305567281</id>
+  <ip>158.194.94.96</ip>
+  <var>P01</var>
+  <start>2023-05-17 08:39:27</start>
+  <mapsize>1920x1200</mapsize>
+  <screen>1920x1200</screen>
+  <browser>Chrome 113</browser>
+  <os>Windows</os>
+  <events>
+    <event>
+      <time>1.935</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(48.50766060391186, 17.310032840797412)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>2.791</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(47.625288837116074, 18.82866790407381)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>3.335</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(47.571578458016084, 19.03466155641756)</center>
+      <zoom>9</zoom>
+    </event>
+    <event>
+      <time>3.979</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(47.526159477981395, 19.055260921651936)</center>
+      <zoom>10</zoom>
+    </event>
+    <event>
+      <time>4.645</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(47.50482679110598, 19.058694149191)</center>
+      <zoom>11</zoom>
+    </event>
+    <event>
+      <time>5.345</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(47.49415719535371, 19.06041076296053)</center>
+      <zoom>12</zoom>
+    </event>
+    <event>
+      <time>6.233</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(47.48882158436798, 19.061269069845295)</center>
+      <zoom>13</zoom>
+    </event>
+    <event>
+      <time>9.361</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(47.47838077763021, 19.06762054079256)</center>
+      <zoom>13</zoom>
+    </event>
+    <event>
+      <time>10.765</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(47.482325326288915, 19.071482921774006)</center>
+      <zoom>14</zoom>
+    </event>
+    <event>
+      <time>14.937</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(47.484935526531665, 19.071568752462483)</center>
+      <zoom>14</zoom>
+    </event>
+    <event>
+      <time>18.999</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(47.4940992024962, 19.066075588399983)</center>
+      <zoom>14</zoom>
+    </event>
+    <event>
+      <time>20.607</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(47.49572297829797, 19.05337264650545)</center>
+      <zoom>15</zoom>
+    </event>
+    <event>
+      <time>22.208</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(47.49430217721734, 19.054102207357502)</center>
+      <zoom>15</zoom>
+    </event>
+    <event>
+      <time>26.752</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(47.48661758685481, 19.058350826437092)</center>
+      <zoom>15</zoom>
+    </event>
+    <event>
+      <time>29.796</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(47.4964188668423, 19.05144145601473)</center>
+      <zoom>15</zoom>
+    </event>
+    <event>
+      <time>37.033</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(47.4994721371606, 19.050054332427298)</center>
+      <zoom>15</zoom>
+    </event>
+    <event>
+      <time>38.601</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(47.49758752727876, 19.05048348586968)</center>
+      <zoom>15</zoom>
+    </event>
+  </events>
+</session>

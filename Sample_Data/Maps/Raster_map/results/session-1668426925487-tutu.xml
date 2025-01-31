@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<session>
+  <id>1668426925487</id>
+  <ip>158.194.94.96</ip>
+  <var>tutu</var>
+  <start>2022-11-14 11:55:25</start>
+  <mapsize>1920x1200</mapsize>
+  <screen>1920x1200</screen>
+  <browser>Chrome 107</browser>
+  <os>Windows</os>
+  <events>
+    <event>
+      <time>0</time>
+      <name>init</name>
+      <value>0</value>
+      <center>(58.376209186374695, 26.909323251552323)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>1.654</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(58.46538503488562, 26.903830087489812)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>2.582</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(58.4711305642525, 26.983480966396062)</center>
+      <zoom>9</zoom>
+    </event>
+    <event>
+      <time>5.392</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(58.56364764678561, 27.024679696864812)</center>
+      <zoom>10</zoom>
+    </event>
+    <event>
+      <time>8.224</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(58.29546904388073, 27.053518808192937)</center>
+      <zoom>10</zoom>
+    </event>
+    <event>
+      <time>9.73</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(58.36356629536415, 27.025357995745114)</center>
+      <zoom>10</zoom>
+    </event>
+    <event>
+      <time>15.904</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(58.411075987706425, 27.05969027113574)</center>
+      <zoom>10</zoom>
+    </event>
+  </events>
+</session>

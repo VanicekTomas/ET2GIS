@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<session>
+  <id>1684306825629</id>
+  <ip>158.194.94.96</ip>
+  <var>p05</var>
+  <start>2023-05-17 09:00:25</start>
+  <mapsize>1920x1200</mapsize>
+  <screen>1920x1200</screen>
+  <browser>Chrome 113</browser>
+  <os>Windows</os>
+  <events>
+    <event>
+      <time>0</time>
+      <name>init</name>
+      <value>0</value>
+      <center>(49.75480440021709, 15.288548465797426)</center>
+      <zoom>8</zoom>
+    </event>
+        <event>
+      <time>1</time>
+      <name>init</name>
+      <value>0</value>
+      <center>(49.75480440021709, 15.288548465797427)</center>
+      <zoom>8</zoom>
+    </event>
+  </events>
+</session>

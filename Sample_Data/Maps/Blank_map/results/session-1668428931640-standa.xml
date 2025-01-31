@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<session>
+  <id>1668428931640</id>
+  <ip>158.194.94.96</ip>
+  <var>standa</var>
+  <start>2022-11-14 12:28:51</start>
+  <mapsize>1920x1200</mapsize>
+  <screen>1920x1200</screen>
+  <browser>Chrome 107</browser>
+  <os>Windows</os>
+  <events>
+    <event>
+      <time>0</time>
+      <name>init</name>
+      <value>0</value>
+      <center>(49.283587675163496, 17.812931875540084)</center>
+      <zoom>10</zoom>
+    </event>
+    <event>
+      <time>2.052</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(49.210972935770904, 17.920048574758827)</center>
+      <zoom>10</zoom>
+    </event>
+    <event>
+      <time>2.595</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(49.26701223725781, 18.21160270798364)</center>
+      <zoom>11</zoom>
+    </event>
+    <event>
+      <time>3.719</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(49.211421502503605, 18.70873405563989)</center>
+      <zoom>11</zoom>
+    </event>
+    <event>
+      <time>4.045</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(49.162320008068285, 19.119096965424202)</center>
+      <zoom>12</zoom>
+    </event>
+    <event>
+      <time>4.546</time>
+      <name>zoom_in</name>
+      <value>0</value>
+      <center>(49.15075664934322, 19.16287061654725)</center>
+      <zoom>13</zoom>
+    </event>
+    <event>
+      <time>5.312</time>
+      <name>zoom_out</name>
+      <value>0</value>
+      <center>(49.14963384938949, 19.15806409799256)</center>
+      <zoom>12</zoom>
+    </event>
+    <event>
+      <time>6.017</time>
+      <name>zoom_out</name>
+      <value>0</value>
+      <center>(49.14806188670482, 19.15188428842225)</center>
+      <zoom>11</zoom>
+    </event>
+    <event>
+      <time>10.55</time>
+      <name>zoom_out</name>
+      <value>0</value>
+      <center>(49.12964375244254, 19.10862562143006)</center>
+      <zoom>10</zoom>
+    </event>
+    <event>
+      <time>10.719</time>
+      <name>zoom_out</name>
+      <value>0</value>
+      <center>(49.10714922897154, 19.02372983626055)</center>
+      <zoom>9</zoom>
+    </event>
+    <event>
+      <time>22.905</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(48.67192801209368, 20.98478940657305)</center>
+      <zoom>9</zoom>
+    </event>
+    <event>
+      <time>25.296</time>
+      <name>click</name>
+      <value>0</value>
+      <center>(48.76073209017617, 20.777604369279445)</center>
+      <zoom>9</zoom>
+    </event>
+  </events>
+</session>

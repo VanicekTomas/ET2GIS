@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<session>
+  <id>1684305524217</id>
+  <ip>158.194.94.96</ip>
+  <var>P01</var>
+  <start>2023-05-17 08:38:44</start>
+  <mapsize>1920x1200</mapsize>
+  <screen>1920x1200</screen>
+  <browser>Chrome 113</browser>
+  <os>Windows</os>
+  <events>
+    <event>
+      <time>0</time>
+      <name>init</name>
+      <value>0</value>
+      <center>(49.75480440021709, 15.288548465797426)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>2.339</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(49.63754881384022, 13.821873661109914)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>4.572</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(49.427204595271085, 15.925755497047414)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>7.864</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(49.90009163080185, 16.238865848609912)</center>
+      <zoom>8</zoom>
+    </event>
+    <event>
+      <time>10.724</time>
+      <name>move</name>
+      <value>0</value>
+      <center>(49.76190170772158, 15.706028934547414)</center>
+      <zoom>8</zoom>
+    </event>
+  </events>
+</session>

@@ -1,0 +1,16 @@
+# ET2GIS:
+ArcGIS Pro==3.1.0
+Python==3.9.5
+arcpy
+numpy
+pandas
+shapely
+xmltodict==0.12.0
+geojson==2.5.0
+pyshp==2.1.3
+
+# Operating System:
+Windows 10/11 (ArcGIS Pro required)
+
+# Additional Requirements:
+ET2Spatial (for data conversion)
